@@ -2,3 +2,4 @@
 haslo v2.py
 *.gitignore
 .vscode/launch.json
+__pycache__/Password_Burte.cpython-310.pyc

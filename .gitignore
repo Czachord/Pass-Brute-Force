@@ -1,2 +1,4 @@
 
 haslo v2.py
+*.gitignore
+.vscode/launch.json
